@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://ramzan-labs.github.io/digitalpospro-privacy/sitemap.xml
